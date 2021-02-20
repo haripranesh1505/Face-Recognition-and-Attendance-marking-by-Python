@@ -10,7 +10,7 @@ file<settings<packages
 
 The packages for this project is:
 (1)cmake
-(2)dlib (19.18.0)
+(2)dlib 
 (3)numpy
 (4)opencv
 (5)face-recognition
