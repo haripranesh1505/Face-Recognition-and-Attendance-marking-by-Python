@@ -29,7 +29,6 @@ be saved as train.py to train the Project for taking the attendance.And another
 image of the selected member should be saved as Test.py to test the image for 
 the attendance purpose.
 
-
 Now open Pycharm application.Then have the Basic.py as one file and AttendanceProject.py
 as other file and do change the file path as per your system.Then run the 
 AttendanceProject.py file, photo names stored will be displayed as a list 
